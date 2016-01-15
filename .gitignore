@@ -1,0 +1,10 @@
+# OSX Files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Project
+node_modules/

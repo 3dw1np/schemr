@@ -1,0 +1,15 @@
+{
+  "name": "schemr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Edwin Polycarpe <edwin.polycarpe@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "mpg321": "https://registry.npmjs.org/mpg321/-/mpg321-0.1.5.tgz",
+    "request": "^2.67.0"
+  }
+}
